@@ -1,2 +1,2 @@
 # projekteja
-ksp
+Koulutehtäviä ja omia koodinpätkiä seassa
